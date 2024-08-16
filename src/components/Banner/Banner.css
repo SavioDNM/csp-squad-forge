@@ -1,0 +1,12 @@
+.banner {
+    background-color: #aaff1e;
+    text-align: center;
+    position: relative; 
+}
+
+.banner img {
+    width: 96%; 
+    height: auto; 
+    object-fit: cover; 
+    display: block; 
+}
